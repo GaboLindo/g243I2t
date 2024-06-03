@@ -1,0 +1,24 @@
+/* Reset CSS */
+
+/* Reset de margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Correção de estilos para elementos de lista */
+ul, ol {
+    list-style: none;
+}
+
+/* Correção de estilo para elementos de link */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Definindo uma fonte base */
+body {
+    font-family: Arial, sans-serif;
+}
