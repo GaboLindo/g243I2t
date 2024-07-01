@@ -1,1 +1,6 @@
-
+:root {
+    --fundoLogin: rgb(225, 181, 245);
+    --fonte: black;
+    --btnSistema: rgb(162, 26, 253);
+    --btnSistemaHover: rgb(225, 126, 255);
+}
